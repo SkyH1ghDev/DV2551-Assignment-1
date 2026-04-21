@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.20)  20 APR 2026 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.20)  20 APR 2026 11:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -126,112 +126,386 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
 )
 \Hy@SectionHShift=\skip51
-) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/tools/array.sty
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgfplots/pgfplots.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen153
+\Gin@req@width=\dimen154
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/frontendlayer/tikz.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgf.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfrcs.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen155
+\pgfutil@tempdimb=\dimen156
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box53
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfrcs.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/basiclayer/pgfcore.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/systemlayer/pgfsys.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen157
+\pgf@y=\dimen158
+\pgf@xa=\dimen159
+\pgf@ya=\dimen160
+\pgf@xb=\dimen161
+\pgf@yb=\dimen162
+\pgf@xc=\dimen163
+\pgf@yc=\dimen164
+\pgf@xd=\dimen165
+\pgf@yd=\dimen166
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count295
+\c@pgf@countb=\count296
+\c@pgf@countc=\count297
+\c@pgf@countd=\count298
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count299
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count300
+\pgfsyssoftpath@bigbuffer@items=\count301
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathutil.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen167
+\pgfmath@count=\count302
+\pgfmath@box=\box54
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathcalc.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count303
+)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfint.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen168
+\pgf@picmaxx=\dimen169
+\pgf@picminy=\dimen170
+\pgf@picmaxy=\dimen171
+\pgf@pathminx=\dimen172
+\pgf@pathmaxx=\dimen173
+\pgf@pathminy=\dimen174
+\pgf@pathmaxy=\dimen175
+\pgf@xx=\dimen176
+\pgf@xy=\dimen177
+\pgf@yx=\dimen178
+\pgf@yy=\dimen179
+\pgf@zx=\dimen180
+\pgf@zy=\dimen181
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen182
+\pgf@path@lasty=\dimen183
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen184
+\pgf@shorten@start@additional=\dimen185
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count304
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen186
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen187
+\pgf@pt@y=\dimen188
+\pgf@pt@temp=\dimen189
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen190
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen191
+\pgf@sys@shading@range@num=\count305
+\pgf@shadingcount=\count306
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box58
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box59
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/utilities/pgffor.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/utilities/pgfkeys.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/pgf/math/pgfmath.sty (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/math/pgfmath.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count307
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikz@lastmovetox=\dimen257
+\tikz@lastmovetoy=\dimen258
+\tikzleveldistance=\dimen259
+\tikzsiblingdistance=\dimen260
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count308
+\tikznumberofchildren=\count309
+\tikznumberofcurrentchild=\count310
+\tikz@fig@count=\count311
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count312
+\pgfmatrixcurrentcolumn=\count313
+\pgf@matrix@numberofcolumns=\count314
+)
+\tikz@expandcount=\count315
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks30
+\t@pgfplots@tokb=\toks31
+\t@pgfplots@tokc=\toks32
+\pgfplots@tmpa=\dimen261
+\c@pgfplots@coordindex=\count316
+\c@pgfplots@scanlineindex=\count317
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_loader.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks33
+\t@pgf@tokb=\toks34
+\t@pgf@tokc=\toks35
+(/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfsupp_pgfutil-common-lists.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotsutil.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsliststructure.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsliststructureext.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsarray.code.tex
+\c@pgfplotsarray@tmp=\count318
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsmatrix.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/numtable/pgfplotstableshared.code.tex
+\c@pgfplotstable@counta=\count319
+\t@pgfplotstable@a=\toks36
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/liststructure/pgfplotsdeque.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotsbinary.data.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotsutil.verb.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfshading.code.tex
+\c@pgfplotslibrarysurf@no=\count320
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotscolormap.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/util/pgfplotscolor.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotsstackedplots.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotsplothandlers.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplothandler.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.scaling.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotscoordprocessing.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.errorbars.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.markers.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplotsticks.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/pgfplots.paths.code.tex) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen262
+\pgfdecoratedremainingdistance=\dimen263
+\pgfdecoratedinputsegmentcompleteddistance=\dimen264
+\pgfdecoratedinputsegmentremainingdistance=\dimen265
+\pgf@decorate@distancetomove=\dimen266
+\pgf@decorate@repeatstate=\count321
+\pgfdecorationsegmentamplitude=\dimen267
+\pgfdecorationsegmentlength=\dimen268
+)
+\tikz@lib@dec@box=\box64
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgfplots/libs/tikzlibrarypgfplots.contourlua.code.tex)
+\pgfplots@numplots=\count322
+\pgfplots@xmin@reg=\dimen269
+\pgfplots@xmax@reg=\dimen270
+\pgfplots@ymin@reg=\dimen271
+\pgfplots@ymax@reg=\dimen272
+\pgfplots@zmin@reg=\dimen273
+\pgfplots@zmax@reg=\dimen274
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/pgf/libraries/pgflibraryplotmarks.code.tex
+File: pgflibraryplotmarks.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
-\col@sep=\dimen153
-\ar@mcellbox=\box53
-\extrarowheight=\dimen154
-\NC@list=\toks18
+\col@sep=\dimen275
+\ar@mcellbox=\box65
+\extrarowheight=\dimen276
+\NC@list=\toks37
 \extratabsurround=\skip52
 \backup@length=\skip53
-\ar@cellbox=\box54
+\ar@cellbox=\box66
 ) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen155
-\lightrulewidth=\dimen156
-\cmidrulewidth=\dimen157
-\belowrulesep=\dimen158
-\belowbottomsep=\dimen159
-\aboverulesep=\dimen160
-\abovetopsep=\dimen161
-\cmidrulesep=\dimen162
-\cmidrulekern=\dimen163
-\defaultaddspace=\dimen164
-\@cmidla=\count295
-\@cmidlb=\count296
-\@aboverulesep=\dimen165
-\@belowrulesep=\dimen166
-\@thisruleclass=\count297
-\@lastruleclass=\count298
-\@thisrulewidth=\dimen167
+\heavyrulewidth=\dimen277
+\lightrulewidth=\dimen278
+\cmidrulewidth=\dimen279
+\belowrulesep=\dimen280
+\belowbottomsep=\dimen281
+\aboverulesep=\dimen282
+\abovetopsep=\dimen283
+\cmidrulesep=\dimen284
+\cmidrulekern=\dimen285
+\defaultaddspace=\dimen286
+\@cmidla=\count323
+\@cmidlb=\count324
+\@aboverulesep=\dimen287
+\@belowrulesep=\dimen288
+\@thisruleclass=\count325
+\@lastruleclass=\count326
+\@thisrulewidth=\dimen289
 ) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen168
-\captionmargin=\dimen169
-\caption@leftmargin=\dimen170
-\caption@rightmargin=\dimen171
-\caption@width=\dimen172
-\caption@indent=\dimen173
-\caption@parindent=\dimen174
-\caption@hangindent=\dimen175
+\caption@tempdima=\dimen290
+\captionmargin=\dimen291
+\caption@leftmargin=\dimen292
+\caption@rightmargin=\dimen293
+\caption@width=\dimen294
+\caption@indent=\dimen295
+\caption@parindent=\dimen296
+\caption@hangindent=\dimen297
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count299
-\c@continuedfloat=\count300
+\c@caption@flags=\count327
+\c@continuedfloat=\count328
 Package caption Info: hyperref package is loaded.
 ) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/threeparttable/threeparttable.sty
 Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box55
+\@tempboxb=\box67
 ) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count301
-\float@exts=\toks19
-\float@box=\box56
-\@float@everytoks=\toks20
-\@floatcapt=\box57
+\c@float@type=\count329
+\float@exts=\toks38
+\float@box=\box68
+\@float@everytoks=\toks39
+\@floatcapt=\box69
 ) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/home/SkyH1ghDev/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count302
-\Gm@cntv=\count303
-\c@Gm@tempcnt=\count304
-\Gm@bindingoffset=\dimen176
-\Gm@wd@mp=\dimen177
-\Gm@odd@mp=\dimen178
-\Gm@even@mp=\dimen179
-\Gm@layoutwidth=\dimen180
-\Gm@layoutheight=\dimen181
-\Gm@layouthoffset=\dimen182
-\Gm@layoutvoffset=\dimen183
-\Gm@dimlist=\toks21
+\Gm@cnth=\count330
+\Gm@cntv=\count331
+\c@Gm@tempcnt=\count332
+\Gm@bindingoffset=\dimen298
+\Gm@wd@mp=\dimen299
+\Gm@odd@mp=\dimen300
+\Gm@even@mp=\dimen301
+\Gm@layoutwidth=\dimen302
+\Gm@layoutheight=\dimen303
+\Gm@layouthoffset=\dimen304
+\Gm@layoutvoffset=\dimen305
+\Gm@dimlist=\toks40
  (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg)) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
+\l__color_backend_stack_int=\count333
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-Package hyperref Info: Link coloring OFF on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+Package hyperref Info: Link coloring OFF on input line 28.
  (main.out) (main.out)
-\@outlinefile=\write3
-\openout3 = `main.out'.
+\@outlinefile=\write4
+\openout4 = `main.out'.
+
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count334
+\scratchdimen=\dimen306
+\scratchbox=\box70
+\nofMPsegments=\count335
+\nofMParguments=\count336
+\everyMPshowfont=\toks41
+\MPscratchCnt=\count337
+\MPscratchDim=\dimen307
+\MPnumerator=\count338
+\makeMPintoPDFobject=\count339
+\everyMPtoPDFconversion=\toks42
+) (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/home/SkyH1ghDev/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into your preamble.
+ on input line 28.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -267,14 +541,19 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 28.
+(Font)              <12> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 28.
+(Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 28.
+(Font)              <6> on input line 31.
 [1
 
-{/home/SkyH1ghDev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}] (main.aux)
+{/home/SkyH1ghDev/.miktex/texmfs/data/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 53.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 53.
+ [2] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -283,17 +562,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 9620 strings out of 469804
- 155564 string characters out of 5469929
- 563058 words of memory out of 5000000
- 38203 multiletter control sequences out of 15000+600000
+ 31361 strings out of 469804
+ 748537 string characters out of 5469929
+ 1240678 words of memory out of 5000000
+ 59567 multiletter control sequences out of 15000+600000
  630756 words of font info for 50 fonts, out of 8000000 for 9000
  0 hyphenation exceptions out of 8191
- 75i,6n,79p,316b,440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,118p,778b,2220s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </home/SkyH1ghDev/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/SkyH1ghDev/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/SkyH1ghDev/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on main.pdf (1 page, 38688 bytes).
+Output written on main.pdf (2 pages, 46872 bytes).
 PDF statistics:
- 26 PDF objects out of 1000 (max. 8388607)
- 2 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 

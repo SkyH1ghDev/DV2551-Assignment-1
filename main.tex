@@ -1,10 +1,13 @@
 \documentclass{article}
 \usepackage{hyperref}
+\usepackage{pgfplots}
 \usepackage{array}
 \usepackage{booktabs, caption}
 \usepackage[flushleft]{threeparttable}
 \usepackage{float}
 \usepackage[top=2.5cm, bottom=2.5cm, left=2.5cm, right=2.5cm]{geometry}
+
+\pgfplotsset{width=10cm}
 
 \bibliographystyle{IEEEtran}
 
@@ -27,5 +30,27 @@
 \maketitle
 
 \newpage
+
+\begin{tikzpicture}
+\begin{axis}[
+	ybar,
+	symbolic x coords={1000, 3000, 5000, 10000, 15000, 20000},
+	ylabel=Time,
+	xtick=data,
+	enlargelimits=0.25,
+	legend style={at={(0.5,-0.1)},
+	anchor=north,legend columns=-1},
+	nodes near coords,
+	nodes near coords align={vertical},
+	bar width=0.2cm,
+]
+\addplot coordinates {(1000, 7) (3000, 9) (5000, 4) (10000, 5) (15000, 3) (20000, 11)};
+\addplot coordinates {(1000, 7) (3000, 9) (5000, 4) (10000, 5) (15000, 3) (20000, 11)};
+\addplot coordinates {(1000, 7) (3000, 9) (5000, 4) (10000, 5) (15000, 3) (20000, 11)};
+
+
+\legend{480p, 720p, 1080p}
+\end{axis}
+\end{tikzpicture}
 
 \end{document}
